@@ -5,5 +5,4 @@
 <h1 style="text-align:center;">
   This is a demonstration of my skills in python programming.<br>
   Feel free to explore<br>
-  I'm open for inputs and criticism
 </h1>
